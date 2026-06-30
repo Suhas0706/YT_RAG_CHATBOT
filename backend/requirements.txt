@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+huggingface_hub
+faiss-cpu
+youtube-transcript-api
+numpy
+python-dotenv
+pydantic
